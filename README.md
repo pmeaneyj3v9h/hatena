@@ -12,11 +12,11 @@
 
 >本项目由 CSDN_LQR 个人独立开发。
 >
->项目博客地址：
+>项目博客地址：[高仿微信6.5.7（融云版）](http://www.jianshu.com/p/f119810520e4)
 >
->项目源码地址：
+>项目源码地址：[LQRWeChatRongCloud](https://git.oschina.net/CSDNLQR/lqrwechatrongcloud)
 >
->项目DemoApp下载：
+>项目DemoApp下载：[Demo](https://git.oschina.net/CSDNLQR/lqrwechatrongcloud/blob/master/app-debug.apk?dir=0&filepath=app-debug.apk&oid=80f630859d9894c62406951929448f68ec7205e3&sha=1c65a0feab5c134a4c87889f8a5e21c7910a9a8f)
 	
 ## 1、简单介绍一下：
 这个项目是本人独立开发的第二个高仿微信项目，仿最新版微信6.5.7（除图片选择器外）。本项目基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。本项目由码云平台托管，欢迎start和fork~~
