@@ -14,7 +14,7 @@
 >
 >项目博客地址：[高仿微信6.5.7（融云版）](http://www.jianshu.com/p/f119810520e4)
 >
->项目源码地址：[LQRWeChatRongCloud](https://git.oschina.net/CSDNLQR/lqrwechatrongcloud)
+>项目源码地址：[码云：LQRWeChatRongCloud](https://git.oschina.net/CSDNLQR/lqrwechatrongcloud)
 >
 >项目DemoApp下载：[Demo](https://git.oschina.net/CSDNLQR/lqrwechatrongcloud/blob/master/app-debug.apk?dir=0&filepath=app-debug.apk&oid=80f630859d9894c62406951929448f68ec7205e3&sha=1c65a0feab5c134a4c87889f8a5e21c7910a9a8f)
 	

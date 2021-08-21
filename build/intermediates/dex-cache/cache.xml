@@ -12,15 +12,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dce593e1a97d6fe8ed8efc3647e6c62ccf22ded3">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_27b1bcb5235884dbc4f5776aa0b5a09a5664e620\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\lqr\.android\build-cache\cce042bf7c27abd7c40cb1d01750979dc85e7c0a\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -57,42 +48,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\alipaySdk-20161129.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9356473ed942faa70a18f34883af52681e1c7223">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20161129_aaa2fb2bdc3298034c5b6b8d60f6028ceade82ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\lqr\.gradle\caches\modules-2\files-2.1\com.qiniu\happy-dns\0.2.7\d94b7987386a3aabbb5aa0be21589f72931f0489\happy-dns-0.2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d94b7987386a3aabbb5aa0be21589f72931f0489">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\happy-dns-0.2.7_7912f7d0916fac591d5b867f2d0e4cc968505a3e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Wechat-Core-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="002b4be4096d7ce75e969449fc81b62e312748a6">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.8.2_5be3878229082d2ac7721cea7163b63107a0ab1c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\lqr\.android\build-cache\0aa8cb4dee6e6181f2214cc2960eefe98b4f6930\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e4e26e530d0252ed98fa107cba0e1883076835b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\lqr\.android\build-cache\cce042bf7c27abd7c40cb1d01750979dc85e7c0a\output\jars\libs\universal-image-loader-1.9.5.jar"
         jumboMode="true"
         optimize="true"
@@ -102,30 +57,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\lqr\.android\build-cache\d89621669c9cf290f50a34bd63d74b7f318b5295\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="772452261af8eb9c1df9ae71fb621afe393277da">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3b1cab0b6c05d9746237f9ebc1d332930074c0a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\TencentMapSDK_Raster_v_1.2.7_51ae0e7.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="cd015da6004ed72abf1936d7a33b6bccc00ef866">
         <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\TencentMapSDK_Raster_v_1.2.7_51ae0e7_5ba1b8d8e0a093ea987361da6984e92faf032c2f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-SinaWeibo-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e8408628154b6e153c46dc0217cfa4b6ed0694b9">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.8.2_6ee22fbf2e715fadd291f119dc5a0c911c7cd6be\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,15 +111,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\lqr\.android\build-cache\807ba6bf5985305ffe29cf7064b834ba25231544\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6c6e253efe436e42d001b5b7dd0e12fda5aaba95">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fdbaf96e669e063802a2edfd3a73cbad0426737\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\TencentLocationSDK_v4.9.7.12_r247861_161205_1104.jar"
         jumboMode="true"
         optimize="true"
@@ -192,30 +120,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Facebook-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb4a741c1bce3db23e592b939933cf9872bc20b">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Facebook-2.8.2_80909634760f96baed8e4b2ec64aec65a46c16cf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Twitter-2.8.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="9a6b3827ab45de1b3b7df380c2ba95e53e3d5228">
         <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Twitter-2.8.2_46e1e98171538bb80a60c8cead2e36afe057da85\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Wechat-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f3f9d8cdaf36e449309698b6d3ec46fd47e4e14c">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.8.2_ca480077e78f4c7a8c13283e544e31e7f6f64b10\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -246,15 +156,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Wechat-Favorite-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1af0c437d793e4f8689be564e02b8c2dec50488a">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.8.2_d0e8109282039cf9a33d6a48007720a3f99469ce\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\joda-time-2.5.jar"
         jumboMode="true"
         optimize="true"
@@ -273,15 +174,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-ShortMessage-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e19bf208ba05ecd52d4301461b6570b26ab3dcb1">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-2.8.2_3c83ade322b4c1944e56701a748b84997ea22782\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Core-2.8.2.jar"
         jumboMode="true"
         optimize="true"
@@ -291,30 +183,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-QZone-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dc2c7e7eaa2bad4c5333b6471d388a64df781d1b">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.8.2_7b04cd664e8bd7892f46b7738b6aed992acda00d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\lqr\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
         <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_6d9ad533d3be0d155c43c34a408db489541e2f0e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\lqr\.android\build-cache\fb37a61c975549f10f2e2222300704c718a0ecf5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="34859058d4a3d6825bd3f3352fbae9391bc5d16e">
-        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e7e572ffbe5570e9d3b8cdde55a82fee3ee40f2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -342,6 +216,132 @@
         revision="25.0.2"
         sha1="30b58e68a37b15c6159ebe6983e58e84743e1e3f">
         <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-TencentWeibo-2.8.2_b50d1c8905a5cab9933eb3182f86d51117f4339e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce593e1a97d6fe8ed8efc3647e6c62ccf22ded3">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_27b1bcb5235884dbc4f5776aa0b5a09a5664e620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\alipaySdk-20161129.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9356473ed942faa70a18f34883af52681e1c7223">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20161129_aaa2fb2bdc3298034c5b6b8d60f6028ceade82ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Wechat-Core-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="002b4be4096d7ce75e969449fc81b62e312748a6">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.8.2_5be3878229082d2ac7721cea7163b63107a0ab1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lqr\.gradle\caches\modules-2\files-2.1\com.qiniu\happy-dns\0.2.7\d94b7987386a3aabbb5aa0be21589f72931f0489\happy-dns-0.2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d94b7987386a3aabbb5aa0be21589f72931f0489">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\happy-dns-0.2.7_7912f7d0916fac591d5b867f2d0e4cc968505a3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lqr\.android\build-cache\0aa8cb4dee6e6181f2214cc2960eefe98b4f6930\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e4e26e530d0252ed98fa107cba0e1883076835b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lqr\.android\build-cache\d89621669c9cf290f50a34bd63d74b7f318b5295\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772452261af8eb9c1df9ae71fb621afe393277da">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3b1cab0b6c05d9746237f9ebc1d332930074c0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-SinaWeibo-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8408628154b6e153c46dc0217cfa4b6ed0694b9">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.8.2_6ee22fbf2e715fadd291f119dc5a0c911c7cd6be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lqr\.android\build-cache\807ba6bf5985305ffe29cf7064b834ba25231544\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c6e253efe436e42d001b5b7dd0e12fda5aaba95">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fdbaf96e669e063802a2edfd3a73cbad0426737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Facebook-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb4a741c1bce3db23e592b939933cf9872bc20b">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Facebook-2.8.2_80909634760f96baed8e4b2ec64aec65a46c16cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Wechat-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3f9d8cdaf36e449309698b6d3ec46fd47e4e14c">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.8.2_ca480077e78f4c7a8c13283e544e31e7f6f64b10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-Wechat-Favorite-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1af0c437d793e4f8689be564e02b8c2dec50488a">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.8.2_d0e8109282039cf9a33d6a48007720a3f99469ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-ShortMessage-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e19bf208ba05ecd52d4301461b6570b26ab3dcb1">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-2.8.2_3c83ade322b4c1944e56701a748b84997ea22782\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\libs\ShareSDK-QZone-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc2c7e7eaa2bad4c5333b6471d388a64df781d1b">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.8.2_7b04cd664e8bd7892f46b7738b6aed992acda00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lqr\.android\build-cache\fb37a61c975549f10f2e2222300704c718a0ecf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34859058d4a3d6825bd3f3352fbae9391bc5d16e">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e7e572ffbe5570e9d3b8cdde55a82fee3ee40f2\classes.dex" />
     </item>
 
 </items>

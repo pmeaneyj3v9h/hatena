@@ -107,27 +107,32 @@ public class UserInfoActivity extends BaseActivity {
     public void initData() {
         mFriend = DBManager.getInstance().getFriendById(mUserInfo.getUserId());
         Glide.with(this).load(DBManager.getInstance().getPortraitUri(mUserInfo)).centerCrop().into(mIvHeader);
-        if (mFriend == null)
-            return;
-        mTvAccount.setText(UIUtils.getString(R.string.my_chat_account, mFriend.getUserId()));
-        mTvName.setText(mFriend.getName());
+        mTvAccount.setText(UIUtils.getString(R.string.my_chat_account, mUserInfo.getUserId()));
+        mTvName.setText(mUserInfo.getName());
 
-        if (DBManager.getInstance().isMe(mFriend.getUserId())) {//我
-            mTvNickName.setVisibility(View.INVISIBLE);
-            mOivAliasAndTag.setVisibility(View.GONE);
-            mLlArea.setVisibility(View.GONE);
-            mLlSignature.setVisibility(View.GONE);
-        } else if (DBManager.getInstance().isMyFriend(mFriend.getUserId())) {//我的朋友
-            String nickName = mFriend.getDisplayName();
-            mTvName.setText(nickName);
-            if (TextUtils.isEmpty(nickName)) {
-                mTvNickName.setVisibility(View.INVISIBLE);
-            } else {
-                mTvNickName.setText(UIUtils.getString(R.string.nickname_colon, mFriend.getName()));
-            }
-        } else {//陌生人
+        if (mFriend == null) {//陌生人
             mBtnCheat.setVisibility(View.GONE);
             mBtnAddToContact.setVisibility(View.VISIBLE);
+            mTvNickName.setVisibility(View.INVISIBLE);
+        } else {
+            if (DBManager.getInstance().isMe(mFriend.getUserId())) {//我
+                mTvNickName.setVisibility(View.INVISIBLE);
+                mOivAliasAndTag.setVisibility(View.GONE);
+                mLlArea.setVisibility(View.GONE);
+                mLlSignature.setVisibility(View.GONE);
+            } else if (DBManager.getInstance().isMyFriend(mFriend.getUserId())) {//我的朋友
+                String nickName = mFriend.getDisplayName();
+                mTvName.setText(nickName);
+                if (TextUtils.isEmpty(nickName)) {
+                    mTvNickName.setVisibility(View.INVISIBLE);
+                } else {
+                    mTvNickName.setText(UIUtils.getString(R.string.nickname_colon, mFriend.getName()));
+                }
+            } else {//陌生人
+                mBtnCheat.setVisibility(View.GONE);
+                mBtnAddToContact.setVisibility(View.VISIBLE);
+                mTvNickName.setVisibility(View.INVISIBLE);
+            }
         }
     }
 
