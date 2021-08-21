@@ -1,6 +1,7 @@
 package com.lqr.wechat.api;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.lqr.wechat.api.base.BaseApiRetrofit;
 import com.lqr.wechat.model.request.AddGroupMemberRequest;
 import com.lqr.wechat.model.request.AddToBlackListRequest;
@@ -83,11 +84,15 @@ public class ApiRetrofit extends BaseApiRetrofit {
 
     private ApiRetrofit() {
         super();
+        Gson gson = new GsonBuilder()
+                .setLenient()
+                .create();
+
         //在构造方法中完成对Retrofit接口的初始化
         mApi = new Retrofit.Builder()
                 .baseUrl(MyApi.BASE_URL)
                 .client(getClient())
-                .addConverterFactory(GsonConverterFactory.create())
+                .addConverterFactory(GsonConverterFactory.create(gson))
                 .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
                 .build()
                 .create(MyApi.class);
@@ -106,7 +111,8 @@ public class ApiRetrofit extends BaseApiRetrofit {
 
     private RequestBody getRequestBody(Object obj) {
         String route = new Gson().toJson(obj);
-        RequestBody body = RequestBody.create(okhttp3.MediaType.parse("application/json; charset=utf-8"), route);
+        RequestBody body=RequestBody.create(okhttp3.MediaType.parse("application/json; charset=utf-8"),route);
+//        RequestBody body = RequestBody.create(okhttp3.MediaType.parse("application/json; charset=utf-8"), route);
         return body;
     }
 

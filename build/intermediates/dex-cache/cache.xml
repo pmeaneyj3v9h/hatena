@@ -255,6 +255,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\lqr\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_dc0e81e20b7004362a5d5d74b6e3e21183ddc897\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\lqr\.android\build-cache\0aa8cb4dee6e6181f2214cc2960eefe98b4f6930\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -315,6 +324,15 @@
         revision="25.0.2"
         sha1="1af0c437d793e4f8689be564e02b8c2dec50488a">
         <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.8.2_d0e8109282039cf9a33d6a48007720a3f99469ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lqr\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="F:\WorkSpace\AndroidStudio_1\LQRWeChatRongCloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_50d656733418211fdafcd5c761dab3a0a07484cf\classes.dex" />
     </item>
     <item
         is-multidex="true"
