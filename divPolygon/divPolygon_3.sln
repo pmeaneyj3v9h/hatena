@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2097E629-AE38-E7CC-971E-0C1BB9017399}") = "divPolygon_3", "Assembly-CSharp.csproj", "{C43806CE-F75F-F36F-7035-C95D8C2EB0B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43806CE-F75F-F36F-7035-C95D8C2EB0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43806CE-F75F-F36F-7035-C95D8C2EB0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43806CE-F75F-F36F-7035-C95D8C2EB0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43806CE-F75F-F36F-7035-C95D8C2EB0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
