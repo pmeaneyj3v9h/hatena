@@ -1,5 +1,5 @@
 #polygonDiv  
-by wantnon 2017-2-7  
+by wantnon 2017-2-11  
 直线切割多边形算法演示，适用于凸或凹多边形。  
   
 用unity打开项目，在编辑器里运行，看Scene视图。  
